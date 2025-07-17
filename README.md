@@ -67,4 +67,4 @@ Developers
 Sena Ezgi Anadollu
 
 About the Project
-This project was developed as part of a Computational Finance course. The development was completed in April 2024.
+This project was developed as part of a Data Mining course. The development was completed in August 2024.
